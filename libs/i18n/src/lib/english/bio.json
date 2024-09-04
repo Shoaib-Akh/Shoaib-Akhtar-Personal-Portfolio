@@ -11,19 +11,19 @@
     "heading": "Experience",
     "experience": [
       {
-        "date": "2022 - Present",
-        "title": "Lead Full Stack Developer",
-        "company": "Oproma"
+        "date": "2021 - Present",
+        "title": "web Developer",
+        "company": "Enigmatix"
       },
       {
-        "date": "2022 - Present",
-        "title": "Chief Technology Officer",
-        "company": "Cleanlist.ai"
+        "date": "2021 - Present",
+        "title": "Mobile App Developer",
+        "company": "Enigmatix"
       },
       {
-        "date": "2020 - 2022",
-        "title": "Lead Software Developer",
-        "company": "Permion.ai"
+        "date": "2019 - 2020",
+        "title": "SEO Specialist",
+        "company": "Di-Gifox"
       }
     ]
   },
@@ -31,18 +31,18 @@
     "heading": "Education",
     "education": [
       {
-        "date": "Professional Certificate",
-        "degree": "Meta Front-End Developer",
-        "university": "Coursera"
+        "date": "JavaScript (Basic) Certificate",
+        "degree": "JavaScript",
+        "university": "hackerrank"
       },
       {
-        "date": "Professional Certificate",
-        "degree": "Meta Back-End Developer",
-        "university": "Coursera"
+        "date": "JavaScript (Intermediate) Certificate",
+        "degree": "JavaScript",
+        "university": "hackerrank"
       },
       {
         "date": "Degree",
-        "degree": "Bachelor Degree in CS and Stats",
+        "degree": "Bachelor Degree in CS ",
         "university": "THE ISLAMIA UNIVERSITY OF BAHAWALPUR"
       }
     ]
